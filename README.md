@@ -2,8 +2,8 @@
 
 
  Senaryo: 
-            Kahve dükyanları için müşteri yönetimi yapan bir sistem yapmak istiyoruz.
-          Starbucks ve Neo firması için çalışıyoruz. İki firma da müşterilerini veri
+            Kahve dükkanları için müşteri yönetimi yapan bir sistem yapmak istiyoruz.
+          Starbucks ve Nero firması için çalışıyoruz. İki firma da müşterilerini veri
           tabanına kaydetmek istiyor. Starbucks müşterilerini kaydederken, mutlaka
           mernis dogrulaması istiyor. Nero müşterileri kaydederken mernis dogrulaması
           istemiyor. Starbucks müşterileri kahve aldıgında yıldız kazandırmak istiyor.
