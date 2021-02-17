@@ -19,7 +19,7 @@ namespace InterfaceAbstractDemo
                 DateOfBirth = new DateTime(2000),
                 FirstName = "Karya",
                 LastName = "Alkan",
-                NationalityId = "62503017756"
+                NationalityId = "627294829492"
             });
 
             BaseCustomerManager customerManagerNero = new NeroCustomerManager();
